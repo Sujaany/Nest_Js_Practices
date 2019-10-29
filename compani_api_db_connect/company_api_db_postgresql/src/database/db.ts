@@ -25,4 +25,5 @@ const config= TypeOrmModule.forRoot({
 //   entities: ['dist/**/*.entity{.ts,.js}'],
 //   synchronize: true,
 // })
+
 export default config;
